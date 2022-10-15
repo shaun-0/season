@@ -1,7 +1,3 @@
-# Getting Started with React
+# First React App
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
+Preview - https://current-season.netlify.app/
